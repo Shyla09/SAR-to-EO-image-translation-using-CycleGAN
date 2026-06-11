@@ -1,6 +1,6 @@
 # Part C Configuration
 # Enhanced SAR -> EO Translation
-
+from config.partc_config import *
 DATA_DIR = "data"
 
 SAR_DIR = "data/processed"
