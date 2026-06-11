@@ -1,6 +1,6 @@
 # Part A Configuration
 # SAR (2 Bands) -> EO (13 Bands)
-
+from config.parta_config import *
 DATA_DIR = "data"
 
 SAR_DIR = "data/processed"
