@@ -449,7 +449,7 @@ SAR2EO/
 ## Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/SAR2EO.git
+git clone https://github.com/Shyla09/SAR-to-EO-image-translation-using-CycleGAN
 
 cd SAR2EO
 ```
